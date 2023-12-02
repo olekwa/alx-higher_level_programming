@@ -1,2 +1,4 @@
-project title : 0x11-python-network_1
-Authors : John Olekwa
+PROJECT TITLE -Python - Network #1
+
+
+AUTHOR - NYARKO PHILIP ABEL
